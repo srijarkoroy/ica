@@ -16,7 +16,7 @@ Consider you are in a room where several people are talking together and their s
   - The values in each source signal have non-Gaussian distributions (ICA won't be able to extract each individual source)
   
 ## How it works
-We are initially provided with a dataset as data 's' with 'n' independent sources. So essentially the actual data with independent sources 's' is an Rn dimentional vector. 
+We are initially provided with a dataset as data 's' with 'n' independent sources. So essentially the actual data with independent sources 's' is an Rn dimensional vector. 
 
 Let us consider 'x' as our observed data. By intuition, our observed data is the dot product of a Mixing Matrix 'A' and the actual data with independent sources 's'.
 
