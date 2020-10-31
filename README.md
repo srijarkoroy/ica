@@ -2,7 +2,7 @@
 
 Independent component analysis (ICA) is a statistical and computational technique for revealing hidden factors that underlie sets of random variables, measurements, or signals. ICA defines a generative model for the observed multivariate data, which is typically given as a large database of samples. 
 
-Consider you are in a room where several people are talking together and their sounds are sort of mixed. However, if you're talking to a particular person, none of the sounds that are external to you does not prevent you from listening to the person you're talking to since human beings possess the innate ability to differentiate between sounds. Independent Component Analysis tries to decompose a multivariate signal into independent non-Gaussian signals. In other word it tries to separate the mixed sounds into individual independent sounds based on the sources, with respect to our previous example. 
+Consider you are in a room where several people are talking together and their sounds are sort of mixed. However, if you're talking to a particular person, none of the external sounds prevent you from listening to the person you're talking to since human beings possess the innate ability to differentiate between sounds. Independent Component Analysis tries to decompose a multivariate signal into independent non-Gaussian signals. In other word it tries to separate the mixed sounds into individual independent sounds based on the sources, with respect to our previous example. 
 
 <br>
 
