@@ -68,6 +68,7 @@ ICA can be broken down into the following steps.
 <img src = "Media/algo.png">
 
 <br>
+
 - Taking the dot product of w and x to get the independent source signals
 
 ## Applications
@@ -82,6 +83,8 @@ ICA can be broken down into the following steps.
   
 ## Results from Implementation
 
+<br>
+<img src = "Media/Mixed.png">
 
-  
+
   
