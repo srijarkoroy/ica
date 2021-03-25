@@ -17,4 +17,4 @@ A = np.array(([[1, 1, 1], [0.5, 2, 1.0], [1.5, 1.0, 2.0]]))
 X = np.dot(X, A.T)
 X = X.T
 S = ica(X, iterations=2500)
-plot_mixture_sources_predictions(X, [s1, s2, s3], S)
+plot_ica(X, [s1, s2, s3], S)
