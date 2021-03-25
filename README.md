@@ -89,10 +89,10 @@ ICA can be broken down into the following steps.
 
 - Cloning the Repository: 
 
-        git clone https://github.com/srijarkoroy/Independent-Component-Analysis--Implementation/
+        git clone https://github.com/srijarkoroy/ica/
 - Entering the directory: 
 
-        cd Independent-Component-Analysis--Implementation
+        cd ica
 - Running the file:
 
         python3 test.py
