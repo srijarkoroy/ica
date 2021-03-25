@@ -6,7 +6,7 @@ Consider you are in a room where several people are talking together and their s
 
 <br>
 
-<img src = "Media/ica.png">
+<img src = "assets/ica.png">
 
 <hr>
 
@@ -40,7 +40,7 @@ ICA can be broken down into the following steps.
   - Add mean back to the estimation of 's' at the end of the problem
   
 <br>  
-<img src = "Media/Center.jpg">
+<img src = "assets/Center.jpg">
 
 <br>
  
@@ -65,7 +65,7 @@ ICA can be broken down into the following steps.
 - Checking whether algorithm has converged and if it hasn’t, return to step 4
 
 <br>
-<img src = "Media/algo.png">
+<img src = "assets/algo.png">
 
 <br>
 
@@ -80,11 +80,27 @@ ICA can be broken down into the following steps.
     - Filling in missing data
   
   - Biomedical Signal Processing (EEG, MRI)
+
+## To use repo and obtain the graphs please follow the steps mentioned below
+
+- Setting up the Python Environment with dependencies:
+
+        pip install -r requirements.txt
+
+- Cloning the Repository: 
+
+        git clone https://github.com/srijarkoroy/Independent-Component-Analysis--Implementation/
+- Entering the directory: 
+
+        cd Independent-Component-Analysis--Implementation
+- Running the file:
+
+        python3 test.py
   
 ## Results from Implementation
 
 <br>
-<img src = "Media/Mixed.png">
+<img src = "assets/Mixed.png">
 
 
   
