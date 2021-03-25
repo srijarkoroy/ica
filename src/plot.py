@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 def plot_mixture_sources_predictions(X, original_sources, S):
   fig = plt.figure()
   plt.subplot(3, 1, 1)
